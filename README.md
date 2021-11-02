@@ -17,11 +17,11 @@ Include a picture of Abraham Lincoln attached below
 Submit a screenshot copy of your HTML code along with a screenshot of the completed HTML page.
 
 Resources: 
-https://www.ourdocuments.gov/doc.php?flash=false&doc=36&page=transcript
-https://www.loc.gov/exhibits/gettysburg-address/
-https://drive.google.com/file/d/1VzW-4ykEVqItvWbWNUZgyvjVCK1ss4sv/view?usp=drive_web&authuser=0
+https://www.ourdocuments.gov/doc.php?flash=false&doc=36&page=transcript;   
+https://www.loc.gov/exhibits/gettysburg-address/;   
+https://drive.google.com/file/d/1VzW-4ykEVqItvWbWNUZgyvjVCK1ss4sv/view?usp=drive_web&authuser=0;   
 
 Pictures: 
-https://drive.google.com/file/d/1jzug31pqXhzQ1JC04O_0cQNvxS4o98O1/view?usp=drive_web&authuser=0
-https://drive.google.com/file/d/1e7O7y8XVgoALLRy7NLvHU4tWqTC-0P07/view?usp=drive_web&authuser=0
-https://drive.google.com/file/d/1fBncPWDmcOE5LK43DpyLOFbLATHLiJbi/view?usp=drive_web&authuser=0
+https://drive.google.com/file/d/1jzug31pqXhzQ1JC04O_0cQNvxS4o98O1/view?usp=drive_web&authuser=0;   
+https://drive.google.com/file/d/1e7O7y8XVgoALLRy7NLvHU4tWqTC-0P07/view?usp=drive_web&authuser=0;   
+https://drive.google.com/file/d/1fBncPWDmcOE5LK43DpyLOFbLATHLiJbi/view?usp=drive_web&authuser=0;   
